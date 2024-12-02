@@ -1,4 +1,4 @@
-This is a webpage for users coming to the collaboration pop-up store of "youssoful" and "kimchangsoodistillery"
+##This is a webpage for users coming to the collaboration pop-up store of "youssoful" and "kimchangsoodistillery"
 
 
 Webpage is based from Massively, a text-heavy, article-oriented design built around a huge background
