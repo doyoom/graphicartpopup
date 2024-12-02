@@ -1,9 +1,7 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+This is a webpage for users coming to the collaboration pop-up store of "youssoful" and "kimchangsoodistillery"
 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
+Webpage is based from Massively, a text-heavy, article-oriented design built around a huge background
 image (with a new parallax implementation I'm testing) and scroll effects (powered by
 Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
 that fulfills a few user requests and makes use of some new techniques I've been wanting
@@ -14,8 +12,6 @@ you can use for pretty much whatever.
 
 (* = not included)
 
-AJ
-aj@lkn.io | @ajlkn
 
 
 Credits:
@@ -30,3 +26,7 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+Massively by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
